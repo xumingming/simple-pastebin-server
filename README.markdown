@@ -7,6 +7,11 @@ Strong point: simple, only one script, that's all, rely on the least thing.
 * Simple --- only one python script
 * supporting programming language highlighting.
 
+## Usage
+```bash
+$ mkdir data
+$ python pastebin.py
+```
 ## Plan
 * develop a command line client
 * maybe add a page to lets be able to share images? or even sound?
